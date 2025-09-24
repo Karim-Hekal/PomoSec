@@ -1,4 +1,3 @@
-# PomoSec
 # PomoSec 🔒⏰
 **Security Vulnerability Tracker with Pomodoro Technique**
 
@@ -14,4 +13,9 @@
 ## Requirements
 ```bash
 pip install ttkbootstrap plyer
+```
 
+## Usage
+```bash
+python main.py
+```
