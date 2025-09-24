@@ -12,7 +12,7 @@
 
 ## Requirements
 ```bash
-pip install ttkbootstrap plyer
+pip install requirements.txt
 ```
 
 ## Usage
